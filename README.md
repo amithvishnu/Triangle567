@@ -1,3 +1,3 @@
 # Triangle567
-Name: Amith Vishnu \n
-Major: Software Engineering SSW 567
+print(Name: Amith Vishnu \n):
+print(Major: Software Engineering SSW 567):
