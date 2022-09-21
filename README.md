@@ -1,3 +1,3 @@
 # Triangle567
 Name: Amith Vishnu
-Software Engineering SSW 567
+Major: Software Engineering SSW 567
